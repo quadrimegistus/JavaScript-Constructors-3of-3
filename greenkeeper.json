@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "12-Stu_Cli/Solved/package.json",
+        "12-Stu_Cli/Unsolved/package.json",
+        "13-Stu_FindShow/Solved/package.json",
+        "13-Stu_FindShow/Unsolved/package.json",
+        "14-Stu_FinalTVApp/Solved/package.json",
+        "14-Stu_FinalTVApp/Unsolved/package.json"
+      ]
+    }
+  }
+}
